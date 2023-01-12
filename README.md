@@ -1,3 +1,38 @@
+
+# Project Outlook
+
+### This is a current updated News App which is mobile responsive as well as Windows.
+
+## Bussiness
+
+![Screenshot_20230112_193749](https://user-images.githubusercontent.com/95633934/212089192-907f3430-b01d-4ad4-93d3-81875c8ca47e.png)
+
+## Entertainment
+
+![Screenshot_20230112_193812](https://user-images.githubusercontent.com/95633934/212090269-4f8fc189-41c8-46ff-9bf9-0554fb0a8ab4.png)
+
+## General 
+
+![Screenshot_20230112_193857](https://user-images.githubusercontent.com/95633934/212090454-b7e9ae47-ec5c-41fd-8149-9bfd01b5f275.png)
+
+## Health
+
+![Screenshot_20230112_193916](https://user-images.githubusercontent.com/95633934/212090588-2e5f8278-c0e1-420f-9c23-b5d4ec926248.png)
+
+## Science
+
+![Screenshot_20230112_193941](https://user-images.githubusercontent.com/95633934/212090988-de1c0f7b-cd4b-4ac5-93da-b52f44b5cca5.png)
+
+
+## Sports
+![Screenshot_20230112_194020](https://user-images.githubusercontent.com/95633934/212091689-078c8a02-755f-49ff-b9e9-6981783c0ae1.png)
+
+
+
+## Technology
+
+![Screenshot_20230112_194045](https://user-images.githubusercontent.com/95633934/212091321-b34525b0-ff0e-4bc2-ab68-23d6a3a17d77.png)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
